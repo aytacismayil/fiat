@@ -1,0 +1,139 @@
+.imgd0v{
+    width: 100%;
+    height: auto;
+    margin: 40px 0;
+}
+.imgg{
+    width:100%;
+    height:100%;
+    object-fit: contain;
+}
+.title{
+    color: #666;
+    font-style: normal !important;
+    font-weight: 300 !important;
+    text-rendering: optimizeLegibility;
+    font-size: 30px;
+    line-height: 42px;
+
+}
+.content{
+    color: #222;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 20px;
+}
+.form-control{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid gray;
+}
+.form-control:focus {
+box-shadow: none;
+}
+.small{
+    font-size: 15px;
+    color: #706f6f;
+}
+.form-title{
+    font-size: 25px; 
+    color: #706f6f;
+}
+.submit{
+    background-color: #8e0d26;
+    border: 1px solid #666;
+    border-radius: 30px;
+    width: 200px;
+    height: 40px;
+    color: white;
+    font-weight: bold;
+}
+.st{
+   font-size: 12px;
+}
+.three-img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.img-three-div{
+    width: 33%;
+    height:300px ;
+    margin: 20px 5px;
+}
+.slider-fiat{
+    position: relative;
+}
+.priv-sl{
+    position: absolute;
+    left: 0;
+    top: 45%;
+}
+.next-sl{
+   position: absolute;
+   right: 0;
+   top: 45%;
+}
+i{
+   color: gray;
+   font-size: 25px;
+}
+.white-img-div{
+    width: 100%;
+    height: 650px;
+}
+.write-img{
+    width: 100%;
+    height: 100%;
+}
+.text-three-all-div{
+    width: 100%;
+    height:auto;
+    background-color: white;
+    -webkit-box-shadow: 2px 0px 43px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 0px 43px -2px rgba(0,0,0,0.75);
+    box-shadow: 2px 0px 43px -2px rgba(0,0,0,0.75);
+}
+.text-img-three{
+    position: relative;
+}
+.white-three-text{
+    position: absolute;
+    z-index: 10;
+    top: 443px;
+    width: 91%;
+    left: 50px;
+
+}
+.three-title{
+    font-size: 21px;
+    font-weight: 600;
+    padding-bottom: 10px;
+   
+    color: #706f6f;
+}
+.three-title-red{
+    color: #8e0d26;
+    font-size: 21px;
+    font-style: italic;
+    font-weight: bolder;
+    line-height: 24px;
+}
+.text-three-all-div{
+    padding: 20px;
+}
+.three-line{
+    color: #8e0d26;
+    margin: 10px 0;
+    width: 50%;
+    border: 2px solid #8e0d26;
+}
+.three-content-line{
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 0;
+    color: #706f6f;
+    font-family: "Roboto",Helvetica,'Roboto',Arial,sans-serif !important;
+}
